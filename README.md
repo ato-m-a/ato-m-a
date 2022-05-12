@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Tech Stack -->
+## Stack
 <div align="center">
-  🛠 <strong style="font-size: 20px;">Stack</strong>
+  🛠 
 </div>
 
 <p align="center">
