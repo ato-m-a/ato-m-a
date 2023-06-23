@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ato-m-a.com">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'Hi%20there✋🏻'&#125&#59&fontSize=50&animation=blinking" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hi%20there✋🏻&fontSize=50&animation=blinking" />
   </a>
 </div>
 
