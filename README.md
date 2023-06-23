@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ato-m-a.com">
+  <a href="https://ato-m-a.me">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hi%20there✋🏻&fontSize=50&animation=blinking" />
   </a>
 </div>
