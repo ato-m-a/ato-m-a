@@ -9,12 +9,16 @@
   📈 Github Stats
 </h3>
 <p align="center">
-  <span align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ato-m-a&layout=compact&theme=gotham" alt="ato-m-a" />
-  </span>
-  <span align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=ato-m-a&count_private=true&show_icons=true&theme=gotham" alt="ato-m-a" />
-  </span>
+  <table>
+    <tr>
+      <td align="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ato-m-a&layout=compact&hide_border=true" alt="ato-m-a" align="right" style="width: 100%" />
+      </td>
+      <td align="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ato-m-a&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="ato-m-a" align="left" style="width: 100%" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- Tech Stack -->
