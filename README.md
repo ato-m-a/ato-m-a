@@ -1,30 +1,17 @@
-<!--
-**ato-m-a/ato-m-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://ato-m-a.com">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'Hi%20there✋🏻'&#125&#59&fontSize=50&animation=blinking" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
-  <b>Hi There</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fato-m-a&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</p>
-
+<!-- Github Stats -->
+<h3 align="center">
+  📈 Github Stats
+</h3>
 <p align="center">
-  <!-- Most Used Languages -->
   <span align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ato-m-a&layout=compact&theme=gotham" alt="ato-m-a" />
   </span>
-  
-  <!-- Github Stats -->
   <span align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=ato-m-a&count_private=true&show_icons=true&theme=gotham" alt="ato-m-a" />
   </span>
@@ -48,4 +35,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fato-m-a&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
