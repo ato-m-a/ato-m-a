@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-22CCF2?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white>
+  <img src="https://img.shields.io/badge/Microsoft Azure-22CCF2?style=for-the-badge&logo=Microsoft Azure&logoColor=white>
 </p>
 
 <p align="center">
