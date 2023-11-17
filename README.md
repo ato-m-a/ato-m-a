@@ -12,6 +12,8 @@ Node.js / AWS 기반의 3년 차 주니어 개발자 홍준혁입니다.
 <!-- Tech Stack -->
 ### 🛠 업무에 사용 중이거나, 사용했던 기술입니다.
 
+(https://img.shields.io/badge/TypeScript-language-007ACC?logo=TypeScript)
+
 <img src="https://img.shields.io/badge/TypeScript-language-007ACC?logo=TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-language-F7DF1E?logo=JavaScript" />
 <img src="https://img.shields.io/badge/React-lib-61DAFB?logo=React" />
