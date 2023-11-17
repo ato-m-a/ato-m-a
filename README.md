@@ -16,7 +16,7 @@
 <hr />
 
 <!-- Tech Stack -->
-### 🛠 업무에 사용 중이거나, 사용했던 기술입니다.
+### 🌟 업무에 사용 중이거나, 사용했던 기술입니다.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-language-007ACC?logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-language-F7DF1E?logo=JavaScript)
