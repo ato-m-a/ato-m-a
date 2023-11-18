@@ -20,7 +20,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-language-007ACC?logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-language-F7DF1E?logo=JavaScript)
-![React](https://img.shields.io/badge/React-lib-61DAFB?logo=React)
+![React](https://img.shields.io/badge/React-frontend-61DAFB?logo=React)
 ![Next.js](https://img.shields.io/badge/Next.js-ssr-000000?logo=Next.js)
 ![Recoil](https://img.shields.io/badge/Recoil-state-3577E5?logo=Recoil)
 ![React-Query](https://img.shields.io/badge/React%20Query-state-EF4444?logo=React-Query)
