@@ -27,6 +27,8 @@
 ![NestJS](https://img.shields.io/badge/NestJS-backend-E0234D?logo=NestJS)
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-cloud-FF9900?logo=AmazonAWS)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ato-m-a&layout=compact&theme=tokyonight)
+
 <hr />
 
 <!-- Contact -->
