@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/React-frontend-61DAFB?logo=React)
 ![Next.js](https://img.shields.io/badge/Next.js-frontend-000000?logo=Next.js)
 ![Recoil](https://img.shields.io/badge/Recoil-state-3577E5?logo=Recoil)
+![Reudx](https://img.shields.io/badge/Redux-state-3577E5?logo=Redux)
 ![React-Query](https://img.shields.io/badge/React%20Query-state-EF4444?logo=React-Query)
 ![NestJS](https://img.shields.io/badge/NestJS-backend-E0234D?logo=NestJS)
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-cloud-FF9900?logo=AmazonAWS)
