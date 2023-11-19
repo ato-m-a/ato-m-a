@@ -1,3 +1,5 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fato-m-a&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 <!-- Hello -->
 <div align="center">
   <a href="https://ato-m-a.me">
@@ -37,7 +39,3 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:atomjh0295@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hongjunhyuk/)
-
-<hr />
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fato-m-a&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
