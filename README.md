@@ -30,7 +30,12 @@
 ![NestJS](https://img.shields.io/badge/NestJS-backend-E0234D?logo=NestJS)
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-cloud-FF9900?logo=AmazonAWS)
 
+#### 📊 Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ato-m-a&layout=compact&theme=tokyonight)
+
+#### 🏅 Baekjun solved rank
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjh2979)](https://solved.ac/hjh2979)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hjh2979&theme=dark)
 
 <hr />
 
