@@ -35,7 +35,7 @@
 
 #### 🏅 Baekjun solved rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjh2979)](https://solved.ac/hjh2979)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hjh2979&theme=dark)
+<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=hjh2979&theme=dark)-->
 
 <hr />
 
