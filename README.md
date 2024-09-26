@@ -26,7 +26,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-frontend-000000?logo=nextdotjs)
 ![Recoil](https://img.shields.io/badge/Recoil-state-3577E5?logo=Recoil)
 ![Reudx](https://img.shields.io/badge/Redux-state-764ABC?logo=Redux)
-![@tanstack/react-query](https://img.shields.io/badge/React%20Query-state-FF4154?logo=reactquery)
+![@tanstack/react-query](https://img.shields.io/badge/TanStack%20Query-state-FF4154?logo=reactquery)
 ![Zod](https://img.shields.io/badge/Zod-tools-3E67B1?logo=zod)
 ![NestJS](https://img.shields.io/badge/NestJS-backend-E0234D?logo=NestJS)
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-cloud-232F3E?logo=amazonwebservices)
