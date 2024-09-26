@@ -9,7 +9,7 @@
 
 <hr />
 
-### 👋 Node.js / AWS 기반의 3년 차 주니어 개발자 홍준혁입니다.
+### 👋 Node.js / AWS 기반의 4년 차 주니어 개발자 홍준혁입니다.
 
 팀과 회사 차원의 임팩트를 생각하며, 필요에 따라 백엔드 개발과 클라우드 엔지니어링을 함께 해왔습니다.
 
@@ -20,15 +20,16 @@
 <!-- Tech Stack -->
 ### 🌟 업무에 사용 중이거나, 사용했던 기술입니다.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-language-007ACC?logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-language-3178C6?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-language-F7DF1E?logo=JavaScript)
 ![React](https://img.shields.io/badge/React-frontend-61DAFB?logo=React)
-![Next.js](https://img.shields.io/badge/Next.js-frontend-000000?logo=Next.js)
+![Next.js](https://img.shields.io/badge/Next.js-frontend-000000?logo=nextdotjs)
 ![Recoil](https://img.shields.io/badge/Recoil-state-3577E5?logo=Recoil)
 ![Reudx](https://img.shields.io/badge/Redux-state-764ABC?logo=Redux)
-![React-Query](https://img.shields.io/badge/React%20Query-state-EF4444?logo=React-Query)
+![@tanstack/react-query](https://img.shields.io/badge/React%20Query-state-FF4154?logo=reactquery)
+![Zod](https://img.shields.io/badge/Zod-tools-3E67B1?logo=zod)
 ![NestJS](https://img.shields.io/badge/NestJS-backend-E0234D?logo=NestJS)
-![AmazonAWS](https://img.shields.io/badge/AmazonAWS-cloud-FF9900?logo=AmazonAWS)
+![AmazonAWS](https://img.shields.io/badge/AmazonAWS-cloud-232F3E?logo=amazonwebservices)
 
 #### 📊 Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ato-m-a&layout=compact&theme=tokyonight)
